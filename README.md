@@ -51,4 +51,4 @@ Many people struggle with finding the right skincare products for their skin typ
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/skincare-ai-app.git
+   git clone https://github.com/sveta-svl/skincare-ai-app.git
